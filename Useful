@@ -1,1 +1,11 @@
 gcc flags:  http://tigcc.ticalc.org/doc/comopts.html
+
+Abut gnl: https://www.nicolamanzini.com/get_next_line-reading-a-line-on-a-fd-is-way-too-tedious/ 
+
+https://stackoverflow.com/questions/32621781/how-to-read-a-file-one-line-at-a-time-and-pass-each-line-to-a-struct-in-c
+^^abut why use static (and never returning a pointer to an array of chars)
+
+https://codereview.stackexchange.com/questions/135133/reading-a-line-ending-with-a-newline-character-from-a-file-descriptor
+^^code review
+
+
